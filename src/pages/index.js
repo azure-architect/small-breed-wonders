@@ -20,7 +20,7 @@ export default function Home() {
           <ul className={styles.products}>
             {items.map(item => {
               return (
-                <li>
+                <li key={item.id}>
                   <img src={item.image} alt="Bowser Holographic" />
                   <h3>{item.title}</h3>
                   <p>${item.price}</p>
