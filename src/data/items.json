@@ -1,0 +1,51 @@
+[
+    {
+        "id":"bowser-holographic",
+        "title": "Bowser Holographic",
+        "price": 286.99,
+        "image": "/images/bowser-holo.jpg"
+    },
+    {
+        "id":"luigi-normal",
+        "title": "Luigi",
+        "price": 86.99,
+        "image": "/images/luigi.jpg"
+    },
+    {
+        "id":"bowser-normal",
+        "title": "Bowser ",
+        "price": 86.99,
+        "image": "/images/Bowser.jpg"
+    },
+    {
+        "id":"hammer-normal",
+        "title": "Hammer ",
+        "price": 86.99,
+        "image": "/images/hammer.jpg"
+    },
+    {
+        "id":"mario-holo",
+        "title": "Mario Holographic ",
+        "price": 289.99,
+        "image": "/images/mario-holo.jpg"
+    },
+    {
+        "id":"mario-normal",
+        "title": "Mario ",
+        "price": 289.99,
+        "image": "/images/mario.jpg"
+    },
+    {
+        "id":"peach-normal",
+        "title": "Peach ",
+        "price": 89.99,
+        "image": "/images/peach.jpg"
+    },
+    {
+        "id":"toad-normal",
+        "title": "Toad",
+        "price": 89.99,
+        "image": "/images/toad.jpg"
+    }
+    
+]
