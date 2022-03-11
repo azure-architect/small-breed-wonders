@@ -54,7 +54,7 @@ export default function Home() {
         &copy; Small Breed Wonders, {new Date().getFullYear()}
       </footer>
       <Script src="https://cdn.snipcart.com/themes/v3.3.3/default/snipcart.js" />
-      <div hidden id="snipcart" data-api-key="process.env.SNIPCART_API_KEY"></div>
+      <div hidden id="snipcart" data-api-key="SNIPCART_API_KEY"></div>
       {/* <div hidden id="snipcart" data-api-key="NTFkZTllYmYtMjhiMS00ZTIxLWE4YjktOTI2ZjM2NTQ4YWYzNjM3ODI1NjAyODAyNjI2MzE4"></div> */}
     </div>
   )
