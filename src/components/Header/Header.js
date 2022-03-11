@@ -7,13 +7,18 @@ const Header = () => {
     return (
         <header className={styles.header}>
             <Container className={styles.headerContainer}>
-            <p className={styles.headerTitle}>
-                Small Breed Wonders
-            </p>
-            <p className={styles.headerCart}>
-                <FaShoppingCart />
-                $0.00
-            </p>
+                <p className={styles.headerTitle}>
+                    Space Balls Jumbolaya
+                </p>
+                <p className={styles.headerCart}>
+                    <button className="snipcart-checkout">
+                        <FaShoppingCart className="snipcart-checkout" />
+
+                        <span className="snipcart-total-price">
+                            $0.00
+                        </span>
+                    </button>
+                </p>
             </Container>
         </header>
     );

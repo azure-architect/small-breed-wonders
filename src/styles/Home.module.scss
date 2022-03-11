@@ -5,6 +5,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  background-color: #1d80cc;
+  
 }
 
 .products {
@@ -14,6 +16,7 @@
   margin: 3em 0 0;
   list-style: none;
   gap: 3em;
+  
   h3{
     font-size: 1.4em;
     margin: .2em 0 0 0;
@@ -23,5 +26,6 @@
     font-style: bold;
     margin: .2em 0 .5em 0;
   }
-
 }
+
+

@@ -1,6 +1,6 @@
 .header {
     width: 100%;
-    background-color: blue;
+    background-color: #1d80cc;
     color: white;
     padding: 0.5em;
     p {
@@ -16,10 +16,16 @@
     font-size: 2em;
 }
 .headerCart {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    svg{
-        margin-right: .5em;
+    button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: transparent;
+        border: none;
+        color: inherit;
+        cursor: pointer;
+        svg {
+            margin-right: 0.5em;
+        }
     }
 }
